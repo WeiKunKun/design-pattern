@@ -1,4 +1,4 @@
-package org.kun.chainofresponsibility;
+package org.kun.design_pattern.chainofresponsibility;
 
 public class Demand {
 	public int level;

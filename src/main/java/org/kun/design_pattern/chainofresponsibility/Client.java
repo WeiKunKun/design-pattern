@@ -1,4 +1,4 @@
-package org.kun.chainofresponsibility;
+package org.kun.design_pattern.chainofresponsibility;
 
 public class Client {
 	public static void main(String[] args) {
